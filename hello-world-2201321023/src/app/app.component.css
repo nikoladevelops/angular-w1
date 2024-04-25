@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+.info-section{
+    background-color: gray;
+    padding:50px;
+}
+
+h3{
+    padding: 20px;
+}
